@@ -1,0 +1,827 @@
+{
+    "dup_type": "lite",
+    "created": "2024-05-31 15:59:44",
+    "version_dup": "1.5.9",
+    "version_wp": "6.5.3",
+    "version_db": "10.4.17",
+    "version_php": "8.2.16",
+    "version_os": "Linux",
+    "blogname": "Soco",
+    "exportOnlyDB": 0,
+    "secure_on": 0,
+    "secure_pass": "$2a$08$kbfd1n4T288U8n42orS.ZOs9SHggo4z5Hc1vWcZEItLaQLbQr.GQa",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wplc_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "soco.rf.gd",
+            "path": "\/",
+            "blogname": "Soco",
+            "blog_prefix": "wplc_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "1",
+                    "user_login": "isaac",
+                    "id": "1"
+                }
+            ],
+            "fullHomeUrl": "https:\/\/soco.rf.gd",
+            "fullSiteUrl": "https:\/\/soco.rf.gd",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs\/wp-content\/uploads",
+            "fullUploadSafePath": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs\/wp-content\/uploads",
+            "fullUploadUrl": "http:\/\/soco.rf.gd\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 0,
+    "license_type": 0,
+    "dbInfo": {
+        "buildMode": "PHP",
+        "charSetList": [
+            "utf8mb4",
+            "utf8"
+        ],
+        "collationList": [
+            "utf8_general_ci",
+            "utf8mb4_unicode_520_ci"
+        ],
+        "engineList": [
+            "MyISAM",
+            "InnoDB"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "if0_36640204_wp213",
+        "tablesBaseCount": 51,
+        "tablesFinalCount": 51,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 1854,
+        "tablesSizeOnDisk": 4339805,
+        "tablesList": {
+            "wplc_check_email_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wplc_commentmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wplc_comments": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 7508
+            },
+            "wplc_duplicator_packages": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 8988
+            },
+            "wplc_gamipress_logs": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 98304
+            },
+            "wplc_gamipress_logs_meta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wplc_gamipress_user_earnings": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wplc_gamipress_user_earnings_meta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wplc_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wplc_options": {
+                "inaccurateRows": 341,
+                "insertedRows": 341,
+                "size": 1121760
+            },
+            "wplc_peepso_activities": {
+                "inaccurateRows": 75,
+                "insertedRows": 75,
+                "size": 98304
+            },
+            "wplc_peepso_activity_followers": {
+                "inaccurateRows": 45,
+                "insertedRows": 45,
+                "size": 32768
+            },
+            "wplc_peepso_activity_ranking": {
+                "inaccurateRows": 31,
+                "insertedRows": 31,
+                "size": 49152
+            },
+            "wplc_peepso_activity_views": {
+                "inaccurateRows": 94,
+                "insertedRows": 98,
+                "size": 32768
+            },
+            "wplc_peepso_api_rate_limit": {
+                "inaccurateRows": 39,
+                "insertedRows": 39,
+                "size": 16384
+            },
+            "wplc_peepso_blocks": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 114688
+            },
+            "wplc_peepso_brute_force_attempts_logs": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wplc_peepso_friends": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 49152
+            },
+            "wplc_peepso_friends_cache": {
+                "inaccurateRows": 12,
+                "insertedRows": 12,
+                "size": 49152
+            },
+            "wplc_peepso_friend_requests": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 49152
+            },
+            "wplc_peepso_gdpr_request_data": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 147456
+            },
+            "wplc_peepso_hashtags": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "wplc_peepso_likes": {
+                "inaccurateRows": 11,
+                "insertedRows": 11,
+                "size": 65536
+            },
+            "wplc_peepso_login_failed_attempts_logs": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wplc_peepso_mail_queue": {
+                "inaccurateRows": 42,
+                "insertedRows": 42,
+                "size": 360448
+            },
+            "wplc_peepso_mayfly": {
+                "inaccurateRows": 80,
+                "insertedRows": 80,
+                "size": 327680
+            },
+            "wplc_peepso_message_participants": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 49152
+            },
+            "wplc_peepso_message_recipients": {
+                "inaccurateRows": 41,
+                "insertedRows": 41,
+                "size": 49152
+            },
+            "wplc_peepso_notifications": {
+                "inaccurateRows": 25,
+                "insertedRows": 25,
+                "size": 114688
+            },
+            "wplc_peepso_notifications_queue_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wplc_peepso_photos": {
+                "inaccurateRows": 9,
+                "insertedRows": 9,
+                "size": 65536
+            },
+            "wplc_peepso_photos_album": {
+                "inaccurateRows": 24,
+                "insertedRows": 24,
+                "size": 49152
+            },
+            "wplc_peepso_polls_user_answers": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wplc_peepso_reactions": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 65536
+            },
+            "wplc_peepso_report": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 98304
+            },
+            "wplc_peepso_revisions": {
+                "inaccurateRows": 1,
+                "insertedRows": 3,
+                "size": 16384
+            },
+            "wplc_peepso_saved_posts": {
+                "inaccurateRows": 0,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wplc_peepso_search_ranking": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wplc_peepso_search_ranking_totals": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wplc_peepso_users": {
+                "inaccurateRows": 13,
+                "insertedRows": 13,
+                "size": 65536
+            },
+            "wplc_peepso_user_autofriends": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wplc_peepso_user_followers": {
+                "inaccurateRows": 16,
+                "insertedRows": 16,
+                "size": 98304
+            },
+            "wplc_peepso_videos": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wplc_postmeta": {
+                "inaccurateRows": 347,
+                "insertedRows": 347,
+                "size": 61884
+            },
+            "wplc_posts": {
+                "inaccurateRows": 155,
+                "insertedRows": 155,
+                "size": 347424
+            },
+            "wplc_termmeta": {
+                "inaccurateRows": 12,
+                "insertedRows": 12,
+                "size": 9836
+            },
+            "wplc_terms": {
+                "inaccurateRows": 14,
+                "insertedRows": 14,
+                "size": 11812
+            },
+            "wplc_term_relationships": {
+                "inaccurateRows": 22,
+                "insertedRows": 22,
+                "size": 3681
+            },
+            "wplc_term_taxonomy": {
+                "inaccurateRows": 14,
+                "insertedRows": 14,
+                "size": 4800
+            },
+            "wplc_usermeta": {
+                "inaccurateRows": 361,
+                "insertedRows": 361,
+                "size": 60512
+            },
+            "wplc_users": {
+                "inaccurateRows": 10,
+                "insertedRows": 10,
+                "size": 8480
+            }
+        },
+        "lowerCaseTableNames": 0,
+        "dbEngine": "MariaDB",
+        "version": "10.4.17",
+        "versionComment": "MariaDB Server",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "packageId": 1,
+        "packageName": "Soco",
+        "packageHash": "7390936-31155944",
+        "secondaryHash": "f9e4d62-31155944"
+    },
+    "fileInfo": {
+        "dirCount": 4013,
+        "fileCount": 12519,
+        "size": 65846211
+    },
+    "wpInfo": {
+        "version": "6.5.3",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs",
+        "targetPaths": [
+            "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs"
+        ],
+        "adminUsers": [
+            {
+                "ID": "1",
+                "user_login": "isaac",
+                "id": "1"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "fgjbpj3rtaraw3truulzvvhdnk8hj9tudgc0yvhp8y8nld6rwu4dxj2tmejnd2of",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "q6sdo2428qyscreyqwjd1sxuxetbod9lcy35pb7bs0sas2omwsigs98pfvyhhos3",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "ypmqnum9owrqfdxgzytc4buheikxy25r87pgt1feoln3pjlm5ijdmydkvj9otcvf",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "eqlzgnfoneejeellitcsqaoiy0qsaahuoxhb8egz4fw9vw4jutsdmkavkzzdxbrz",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "u7vzjxlyowwni50f8s1dewfnxxe7n4skst6hvtittddkmkggwmagknseftratdbv",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "vzvyj4uny3heov0gwc7ritlughkrvorynnrl2hdea4uwtolwxixf8wcecinklwxy",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "6kawdlq2lxixcjma2n7rqgwi7ul0h8wcqi6fl0bu9cixzye1s1h9snjzkyvsv0cp",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "1tozpzkkkkyuyy9drltbhiib8hcjgnajfr7pog94elx8ehhwzs9ngf2y4rysabyo",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "http:\/\/soco.rf.gd\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "http:\/\/soco.rf.gd\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "512M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_LANG_DIR": {
+                    "value": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs\/wp-content\/themes\/peepso-theme-gecko",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs\/wp-content\/themes\/peepso-theme-gecko",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "http:\/\/soco.rf.gd\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "https:\/\/soco.rf.gd",
+                "homeUrl": "https:\/\/soco.rf.gd",
+                "loginUrl": "https:\/\/soco.rf.gd\/wp-login.php",
+                "contentUrl": "https:\/\/soco.rf.gd\/wp-content",
+                "uploadBaseUrl": "http:\/\/soco.rf.gd\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/soco.rf.gd\/wp-content\/plugins",
+                "mupluginsUrl": "http:\/\/soco.rf.gd\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/soco.rf.gd\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs",
+                    "abs": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs",
+                    "wpconfig": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs",
+                    "wpcontent": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs\/wp-content",
+                    "uploads": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs\/wp-content\/uploads",
+                    "plugins": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs\/wp-content\/plugins",
+                    "muplugins": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs\/wp-content\/mu-plugins",
+                    "themes": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs",
+                    "abs": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs",
+                    "wpconfig": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs",
+                    "wpcontent": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs\/wp-content",
+                    "uploads": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs\/wp-content\/uploads",
+                    "plugins": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs\/wp-content\/plugins",
+                    "muplugins": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs\/wp-content\/mu-plugins",
+                    "themes": "\/home\/vol1_7\/infinityfree.com\/if0_36640204\/htdocs\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "akismet\/akismet.php": {
+                "slug": "akismet\/akismet.php",
+                "name": "Akismet Anti-spam: Spam Protection",
+                "version": "5.3.2",
+                "pluginURI": "https:\/\/akismet.com\/",
+                "author": "Automattic - Anti-spam Team",
+                "authorURI": "https:\/\/automattic.com\/wordpress-plugins\/",
+                "description": "Used by millions, Akismet is quite possibly the best way in the world to <strong>protect your blog from spam<\/strong>. Akismet Anti-spam keeps your site protected even while you sleep. To get started: activate the Akismet plugin and then go to your Akismet Settings page to set up your API key.",
+                "title": "Akismet Anti-spam: Spam Protection",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "bp-better-messages\/bp-better-messages.php": {
+                "slug": "bp-better-messages\/bp-better-messages.php",
+                "name": "Better Messages",
+                "version": "2.5.12",
+                "pluginURI": "https:\/\/www.wordplus.org",
+                "author": "WordPlus",
+                "authorURI": "https:\/\/www.wordplus.org",
+                "description": "Realtime private messaging system for WordPress",
+                "title": "Better Messages",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "check-email\/check-email.php": {
+                "slug": "check-email\/check-email.php",
+                "name": "Check & Log Email",
+                "version": "1.0.12.1",
+                "pluginURI": "",
+                "author": "checkemail",
+                "authorURI": "https:\/\/check-email.tech\/",
+                "description": "Check & Log email allows you to test if your WordPress installation is sending emails correctly and logs every email.",
+                "title": "Check & Log Email",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "disable-blog\/disable-blog.php": {
+                "slug": "disable-blog\/disable-blog.php",
+                "name": "Disable Blog",
+                "version": "0.5.4",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/disable-blog\/",
+                "author": "Joshua David Nelson",
+                "authorURI": "http:\/\/joshuadnelson.com",
+                "description": "Go blog-less with WordPress. This plugin disables all blog-related functionality (by hiding, removing, and redirecting).",
+                "title": "Disable Blog",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.5.9",
+                "pluginURI": "https:\/\/duplicator.com\/",
+                "author": "Duplicator",
+                "authorURI": "https:\/\/duplicator.com\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "export-without-shortcodes\/export-without-shortcodes.php": {
+                "slug": "export-without-shortcodes\/export-without-shortcodes.php",
+                "name": "Export Without Shortcodes",
+                "version": "0.0.3",
+                "pluginURI": "",
+                "author": "Jose Mortellaro",
+                "authorURI": "https:\/\/josemortellaro.com",
+                "description": "During the exporting process it converts the shortcodes to HTML.",
+                "title": "Export Without Shortcodes",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "export-wp-page-to-static-html\/export-wp-page-to-static-html.php": {
+                "slug": "export-wp-page-to-static-html\/export-wp-page-to-static-html.php",
+                "name": "Export WP Page to Static HTML\/CSS",
+                "version": "2.2.2",
+                "pluginURI": "https:\/\/myrecorp.com",
+                "author": "ReCorp",
+                "authorURI": "https:\/\/www.upwork.com\/fl\/rayhan1",
+                "description": "Export any WP Page to html and css very easily.",
+                "title": "Export WP Page to Static HTML\/CSS",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "gamipress\/gamipress.php": {
+                "slug": "gamipress\/gamipress.php",
+                "name": "GamiPress",
+                "version": "6.9.9.1",
+                "pluginURI": "https:\/\/gamipress.com",
+                "author": "GamiPress",
+                "authorURI": "https:\/\/gamipress.com\/",
+                "description": "The most flexible and powerful gamification system for WordPress.",
+                "title": "GamiPress",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "maintenance\/maintenance.php": {
+                "slug": "maintenance\/maintenance.php",
+                "name": "Maintenance",
+                "version": "4.08",
+                "pluginURI": "https:\/\/wpmaintenancemode.com\/",
+                "author": "WebFactory Ltd",
+                "authorURI": "https:\/\/www.webfactoryltd.com\/",
+                "description": "Put your site in maintenance mode, away from the public view. Use maintenance plugin if your website is in development or you need to change a few things, run an upgrade. Make it only accessible to logged in users.",
+                "title": "Maintenance",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "peepso-core\/peepso.php": {
+                "slug": "peepso-core\/peepso.php",
+                "name": "PeepSo",
+                "version": "6.4.1.0",
+                "pluginURI": "https:\/\/peepso.com",
+                "author": "PeepSo",
+                "authorURI": "https:\/\/peepso.com",
+                "description": "PeepSo Foundation - The Next Generation Social Networking Plugin for WordPress",
+                "title": "PeepSo",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "peepso-videos\/peepsovideos.php": {
+                "slug": "peepso-videos\/peepsovideos.php",
+                "name": "PeepSo Core: Audio & Video",
+                "version": "6.4.1.0",
+                "pluginURI": "https:\/\/peepso.com",
+                "author": "PeepSo",
+                "authorURI": "https:\/\/peepso.com",
+                "description": "Upload audio and video files. Link and embed audio and video from supported providers",
+                "title": "PeepSo Core: Audio & Video",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "peepso-messages\/peepsomessages.php": {
+                "slug": "peepso-messages\/peepsomessages.php",
+                "name": "PeepSo Core: Chat",
+                "version": "6.4.1.0",
+                "pluginURI": "https:\/\/peepso.com",
+                "author": "PeepSo",
+                "authorURI": "https:\/\/peepso.com",
+                "description": "Private messages and live chat",
+                "title": "PeepSo Core: Chat",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "peepso-friends\/peepsofriends.php": {
+                "slug": "peepso-friends\/peepsofriends.php",
+                "name": "PeepSo Core: Friends",
+                "version": "6.4.1.0",
+                "pluginURI": "https:\/\/peepso.com",
+                "author": "PeepSo",
+                "authorURI": "https:\/\/peepso.com",
+                "description": "Friend connections and \"friends\" privacy level",
+                "title": "PeepSo Core: Friends",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "peepso-photos\/peepsosharephotos.php": {
+                "slug": "peepso-photos\/peepsosharephotos.php",
+                "name": "PeepSo Core: Photos",
+                "version": "6.4.1.0",
+                "pluginURI": "https:\/\/peepso.com",
+                "author": "PeepSo",
+                "authorURI": "https:\/\/peepso.com",
+                "description": "Photo uploads and albums",
+                "title": "PeepSo Core: Photos",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "popularfx-templates\/popularfx-templates.php": {
+                "slug": "popularfx-templates\/popularfx-templates.php",
+                "name": "PopularFX Website Templates",
+                "version": "1.2.4",
+                "pluginURI": "https:\/\/popularfx.com\/",
+                "author": "Pagelayer Team",
+                "authorURI": "https:\/\/pagelayer.com\/",
+                "description": "PopularFX is a lightweight theme with 500+ templates to make beautiful websites with Pagelayer. PopularFX can be used for a blogging site, WooCommerce Store, Business website, personal portfolio, etc.",
+                "title": "PopularFX Website Templates",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            }
+        },
+        "themes": {
+            "peepso-theme-gecko": {
+                "slug": "peepso-theme-gecko",
+                "themeName": "PeepSo Theme: Gecko",
+                "version": "6.4.1.0",
+                "themeURI": "https:\/\/GeckoTheme.com",
+                "parentTheme": false,
+                "template": "peepso-theme-gecko",
+                "stylesheet": "peepso-theme-gecko",
+                "description": "Thank you for choosing Gecko as your theme. We're very passionate about creating the best possible experience for you and your community. Community that can be built with PeepSo - The Next Generation User Profile And Social Networking Plugins for WordPress. For more information about PeepSo go to: <a href=\"https:\/\/PeepSo.com\">PeepSo.com<\/a>.<!--Gecko Parent-->",
+                "author": "PeepSo, Inc.",
+                "authorURI": "https:\/\/PeepSo.com",
+                "tags": [
+                    "blog",
+                    "e-commerce",
+                    "education",
+                    "three-columns",
+                    "left-sidebar",
+                    "right-sidebar"
+                ],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            }
+        }
+    },
+    "defaultStorageId": -1,
+    "components": [
+        "package_component_db",
+        "package_component_core",
+        "package_component_plugins",
+        "package_component_themes",
+        "package_component_uploads",
+        "package_component_other"
+    ],
+    "opts_delete": "[\"duplicator_ui_view_state\",\"duplicator_package_active\",\"duplicator_settings\",\"duplicator_is_pro_enable_notice_dismissed\"]",
+    "brand": {
+        "name": "Duplicator",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "blogname": {
+            "value": "Soco"
+        }
+    },
+    "installer_base_name": "installer.php.bak",
+    "installer_backup_name": "Soco_7390936513a6f6fd1623_20240531155944_installer-backup.php",
+    "package_name": "Soco_7390936513a6f6fd1623_20240531155944_archive.zip",
+    "package_hash": "7390936-31155944",
+    "package_notes": ""
+}
